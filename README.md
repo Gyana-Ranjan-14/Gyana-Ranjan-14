@@ -1,9 +1,14 @@
 
-<a href="#"><img align="center" width="60%" height="auto"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="150px"/></a>
+<a align="center" href="#"><img  width="60%" height="auto"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="150px"/></a>
 <h1 align="center">Hi 👋, I'm Gyana Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana-ranjan-14&label=Profile%20views&color=0e75b6&style=flat" alt="gyana-ranjan-14" /> </p>
+## ❤ Views and Followers ❤
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Gyana-Ranjan-14">
+</a>
+<a href="https://github.com/Gyana-Ranjan-14?tab=followers"><img src="https://img.shields.io/github/followers/Gyana-Ranjan-14?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 ## 🙋‍♂️ About Me ❤❤
 
@@ -64,11 +69,6 @@
 <br/>
 <br/>
 
-## ❤ Views and Followers ❤
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Gyana-Ranjan-14">
-</a>
-<a href="https://github.com/Gyana-Ranjan-14?tab=followers"><img src="https://img.shields.io/github/followers/Gyana-Ranjan-14?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
 
