@@ -1,5 +1,5 @@
 
-<a align="center" href="#"><img  width="60%" height="auto"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="150px"/></a>
+
 <h1 align="center">Hi 👋, I'm Gyana Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -58,9 +58,7 @@
     <a href="https://github.com/Gyana-Ranjan-14/github-readme-stats"><img alt="Gyana Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gyana-Ranjan-14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Gyana-Ranjan-14/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyana-Ranjan-14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  
 <br/>
 <br/>
 
